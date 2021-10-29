@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Full-Stack Web Developer with experience using PostgreSQL/Node/Express/React to build web apps. Background in Digital and Geospatial Information Technologies, focusing on management of information systems, process improvement, project management and Data analysis.
+
 <!--
 **jcochran206/jcochran206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

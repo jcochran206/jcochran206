@@ -2,6 +2,9 @@
 
 Full-Stack Web Developer with experience using PostgreSQL/Node/Express/React to build web apps. Background in Digital and Geospatial Information Technologies, focusing on management of information systems, process improvement, project management and Data analysis.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcochran206)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **jcochran206/jcochran206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,11 +1,14 @@
 # Hi there 👋, I am Jonathan
 ### Software | Full Stack Developer
 
-<img src="https://github.com/jcochran206/jcochran206/blob/main/IMG_1001.JPG" height="500" width="100%" />
+<img src="https://github.com/jcochran206/jcochran206/blob/main/IMG_1001.JPG" height="400" width="100%" />
 
 Full-Stack Web Developer with experience using PostgreSQL/Node/Express/React to build web apps. Background in Digital and Geospatial Information Technologies, focusing on management of information systems, process improvement, project management and Data analysis.
 
-## Skills: REACT / JS / HTML / CSS 
+## Skills:
+
+#### ⚛️ REACT  
+#### 💻 JS | HTML | CSS 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcochran206)](https://github.com/anuraghazra/github-readme-stats)
 

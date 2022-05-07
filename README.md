@@ -6,9 +6,13 @@
 Full-Stack Web Developer with experience using PostgreSQL/Node/Express/React to build web apps. Background in Digital and Geospatial Information Technologies, focusing on management of information systems, process improvement, project management and Data analysis.
 
 ## Skills:
-
+### Front End
 #### ⚛️ REACT  
 #### 💻 JS | HTML | CSS 
+### Server & Backend 
+#### 🐍 Python | Flask 
+#### 🐘 PostgreSQL | 🐬 MySQL | MS SQL
+#### 💎 NodeJS | ExpressJS | MongoDB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcochran206)](https://github.com/anuraghazra/github-readme-stats)
 

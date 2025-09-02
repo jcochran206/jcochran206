@@ -16,7 +16,6 @@ Full-Stack Web Developer with experience using PostgreSQL/Node/Express/React to 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcochran206&layout=compact)](https://github.com/jcochran206/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jcochran206&show_icons=true)  
 
 
 
